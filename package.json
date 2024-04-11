@@ -2,7 +2,7 @@
   "name": "cube-css-dashboard",
   "version": "1.0.0",
   "description": "A banking dashboard that you build in the Piccalilli tutorial: Build a dashboard with CUBE CSS",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "start": "sass --watch ./scss/global.scss:dist/css/global.css --no-source-map --load-path=node_modules",
     "build": "sass ./scss/global.scss:dist/css/global.css --style=compressed --load-path=node_modules"
